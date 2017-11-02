@@ -14,6 +14,13 @@ return [
         // Here comes the menu structure
         "items" => [
 
+            "home" => [
+                "text"  => t("Home"),
+                "url"   => $this->di->get("url")->create("index"),
+                "title" => t("Homepage"),
+                "mark-if-parent" => true,
+            ],
+
             "report" => [
                 "text"  => t("Report"),
                 "url"   => $this->di->get("url")->create("report"),

@@ -1,14 +1,10 @@
 ---
 titleBreadcrumb: Home
 ...
-A website using Anax Flat
-===============================
+# A website using Anax Flat
 
-Hi there.
+Hello there.
 
-Nice of you to stop by.
+This is a **nice** website and you are now commanded to like it aswell. This is so you do not get confused while you stay here.
 
-This is a website created using Anax Flat as a base. This is the base website to be used in the dbwebb course *design*.
-
-Cheers and happy building of websites,  
-/Mikael
+This is a website has a based of Anax Flat. This is the base website to be used in the dbwebb course *design*.
