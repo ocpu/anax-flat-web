@@ -1,15 +1,4 @@
-<style>
-[alt='Me'] {
-    height: 200px;
-    float: left;
-    margin: 10px;
-}
-
-.content {
-    border-top: 1px solid #ddd;
-}
-</style>
-![Me](img/me.jpg)
+[FIGURE src="img/me.jpg" caption=Me]
 
 I am a Martin and currently studying web development at Blekinges Institute of Technology. 
 
