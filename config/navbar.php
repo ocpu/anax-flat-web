@@ -27,11 +27,17 @@ return [
                 "title" => t("Reports from kmom assignments"),
                 "mark-if-parent" => true,
             ],
-
+            
             "about" => [
                 "text"  => t("About"),
                 "url"   => $this->di->get("url")->create("about"),
-                "title" => t("About this website")
+                "title" => t("About")
+            ],
+            
+            "typography" => [
+                "text"  => t("Typography"),
+                "url"   => $this->di->get("url")->create("typography"),
+                "title" => t("typography")
             ],
         ],
     ],
@@ -67,6 +73,12 @@ return [
                 "text"  => t("About"),
                 "url"   => $this->di->get("url")->create("about"),
                 "title" => t("About this website")
+            ],
+            
+            "typography" => [
+                "text"  => t("Typography"),
+                "url"   => $this->di->get("url")->create("typography"),
+                "title" => t("typography")
             ],
         ],
     ],
