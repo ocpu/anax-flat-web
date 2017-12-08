@@ -39,6 +39,12 @@ return [
                 "url"   => $this->di->get("url")->create("typography"),
                 "title" => t("typography")
             ],
+            
+            "theme-selector" => [
+                "text"  => t("Theme selector"),
+                "url"   => $this->di->get("url")->create("theme-selector"),
+                "title" => t("Theme selector")
+            ],
         ],
     ],
 
@@ -79,6 +85,12 @@ return [
                 "text"  => t("Typography"),
                 "url"   => $this->di->get("url")->create("typography"),
                 "title" => t("typography")
+            ],
+
+            "theme-selector" => [
+                "text"  => t("Theme selector"),
+                "url"   => $this->di->get("url")->create("theme-selector"),
+                "title" => t("Theme selector")
             ],
         ],
     ],
